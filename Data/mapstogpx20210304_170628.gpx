@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data ©2021 Google</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2021</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/Romare Bearden Park, 300 S Church St, Charlotte, NC 28202/Mellow Mushroom Charlotte - Uptown, West Martin Luther King JR Boulevard, Charlotte, NC/Mint Museum UPTOWN, South Tryon Street, Charlotte, NC/Discovery Place Science Musuem, North Tryon Street, Charlotte, NC/@35.2268298,-80.8465814,17z/data=!3m1!4b1!4m26!4m25!1m5!1m1!1s0x8856a02e8c5314ab:0x4d021414d3cb6d55!2m2!1d-80.847825!2d35.2270361!1m5!1m1!1s0x8856a02ebe53d0b9:0xf9b4bcb1fe1cae50!2m2!1d-80.8477937!2d35.2258943!1m5!1m1!1s0x8856a0294f3900e9:0x319cde9c1326f0c1!2m2!1d-80.8480541!2d35.2243984!1m5!1m1!1s0x8856a024d5c1e267:0x785caa494a64faf3!2m2!1d-80.8409271!2d35.229441!3e2?hl=en</url-->
+    <time>2021-03-04T12:06:28Z</time>
+  </metadata>
+  <wpt lat="35.2270361" lon="-80.847825">
+    <name>Romare Bearden Park</name>
+    <desc>Romare Bearden Park, 300 S Church St, Charlotte, NC 28202, United States</desc>
+  </wpt>
+  <wpt lat="35.2258943" lon="-80.8477937">
+    <name>Mellow Mushroom Charlotte - Uptown</name>
+    <desc>Mellow Mushroom Charlotte - Uptown, 255 W Martin Luther King Jr Blvd, Charlotte, NC 28202, United States</desc>
+  </wpt>
+  <wpt lat="35.2243984" lon="-80.8480541">
+    <name>Mint Museum UPTOWN</name>
+    <desc>Mint Museum UPTOWN, 500 S Tryon St, Charlotte, NC 28202, United States</desc>
+  </wpt>
+  <wpt lat="35.229441" lon="-80.8409271">
+    <name>Discovery Place Science Musuem</name>
+    <desc>Discovery Place Science, 301 N Tryon St, Charlotte, NC 28202, United States</desc>
+  </wpt>
+<trk>
+  <name>Romare Bearden Park to Discovery Place Science Musuem</name>
+  <number>1</number>
+  <trkseg>
+  <trkpt lat="35.2268209" lon="-80.8477254">
+    <name>TP001</name>
+  </trkpt>
+  <trkpt lat="35.2268" lon="-80.84778">
+    <name>TP002</name>
+  </trkpt>
+  <trkpt lat="35.22677" lon="-80.84786">
+    <name>TP003</name>
+  </trkpt>
+  <trkpt lat="35.22677" lon="-80.84789">
+    <name>TP004</name>
+  </trkpt>
+  <trkpt lat="35.2267674" lon="-80.8478869">
+    <name>TP005</name>
+  </trkpt>
+  <trkpt lat="35.22669" lon="-80.84788">
+    <name>TP006</name>
+  </trkpt>
+  <trkpt lat="35.22668" lon="-80.84792">
+    <name>TP007</name>
+  </trkpt>
+  <trkpt lat="35.22667" lon="-80.84793">
+    <name>TP008</name>
+  </trkpt>
+  <trkpt lat="35.22666" lon="-80.84795">
+    <name>TP009</name>
+  </trkpt>
+  <trkpt lat="35.22664" lon="-80.84796">
+    <name>TP010</name>
+  </trkpt>
+  <trkpt lat="35.22662" lon="-80.84796">
+    <name>TP011</name>
+  </trkpt>
+  <trkpt lat="35.22659" lon="-80.84796">
+    <name>TP012</name>
+  </trkpt>
+  <trkpt lat="35.22657" lon="-80.84796">
+    <name>TP013</name>
+  </trkpt>
+  <trkpt lat="35.22656" lon="-80.84795">
+    <name>TP014</name>
+  </trkpt>
+  <trkpt lat="35.22652" lon="-80.84792">
+    <name>TP015</name>
+  </trkpt>
+  <trkpt lat="35.2265" lon="-80.8479">
+    <name>TP016</name>
+  </trkpt>
+  <trkpt lat="35.2265037" lon="-80.8479042">
+    <name>TP017</name>
+  </trkpt>
+  <trkpt lat="35.22647" lon="-80.84796">
+    <name>TP018</name>
+  </trkpt>
+  <trkpt lat="35.22646" lon="-80.84799">
+    <name>TP019</name>
+  </trkpt>
+  <trkpt lat="35.2264" lon="-80.84808">
+    <name>TP020</name>
+  </trkpt>
+  <trkpt lat="35.2263978" lon="-80.8480798">
+    <name>TP021</name>
+  </trkpt>
+  <trkpt lat="35.22636" lon="-80.84803">
+    <name>TP022</name>
+  </trkpt>
+  <trkpt lat="35.22625" lon="-80.84791">
+    <name>TP023</name>
+  </trkpt>
+  <trkpt lat="35.2262" lon="-80.84786">
+    <name>TP024</name>
+  </trkpt>
+  <trkpt lat="35.22617" lon="-80.84783">
+    <name>TP025</name>
+  </trkpt>
+  <trkpt lat="35.22613" lon="-80.84779">
+    <name>TP026</name>
+  </trkpt>
+  <trkpt lat="35.22608" lon="-80.84773">
+    <name>TP027</name>
+  </trkpt>
+  <trkpt lat="35.22601" lon="-80.84764">
+    <name>TP028</name>
+  </trkpt>
+  <trkpt lat="35.2260094" lon="-80.8476447">
+    <name>TP029</name>
+  </trkpt>
+  <trkpt lat="35.2260094" lon="-80.8476447">
+    <name>TP030</name>
+  </trkpt>
+  <trkpt lat="35.22586" lon="-80.84748">
+    <name>TP031</name>
+  </trkpt>
+  <trkpt lat="35.22581" lon="-80.84742">
+    <name>TP032</name>
+  </trkpt>
+  <trkpt lat="35.2258093" lon="-80.8474169">
+    <name>TP033</name>
+  </trkpt>
+  <trkpt lat="35.22558" lon="-80.84775">
+    <name>TP034</name>
+  </trkpt>
+  <trkpt lat="35.22544" lon="-80.84795">
+    <name>TP035</name>
+  </trkpt>
+  <trkpt lat="35.22541" lon="-80.848">
+    <name>TP036</name>
+  </trkpt>
+  <trkpt lat="35.22537" lon="-80.84805">
+    <name>TP037</name>
+  </trkpt>
+  <trkpt lat="35.22522" lon="-80.84826">
+    <name>TP038</name>
+  </trkpt>
+  <trkpt lat="35.22506" lon="-80.84851">
+    <name>TP039</name>
+  </trkpt>
+  <trkpt lat="35.2250637" lon="-80.8485143">
+    <name>TP040</name>
+  </trkpt>
+  <trkpt lat="35.22501" lon="-80.84846">
+    <name>TP041</name>
+  </trkpt>
+  <trkpt lat="35.22475" lon="-80.84815">
+    <name>TP042</name>
+  </trkpt>
+  <trkpt lat="35.22461" lon="-80.848">
+    <name>TP043</name>
+  </trkpt>
+  <trkpt lat="35.2246137" lon="-80.8480024">
+    <name>TP044</name>
+  </trkpt>
+  <trkpt lat="35.22451" lon="-80.84816">
+    <name>TP045</name>
+  </trkpt>
+  <trkpt lat="35.2245118" lon="-80.8481624">
+    <name>TP046</name>
+  </trkpt>
+  <trkpt lat="35.2245118" lon="-80.8481624">
+    <name>TP047</name>
+  </trkpt>
+  <trkpt lat="35.22461" lon="-80.848">
+    <name>TP048</name>
+  </trkpt>
+  <trkpt lat="35.2246137" lon="-80.8480024">
+    <name>TP049</name>
+  </trkpt>
+  <trkpt lat="35.22475" lon="-80.84815">
+    <name>TP050</name>
+  </trkpt>
+  <trkpt lat="35.22501" lon="-80.84846">
+    <name>TP051</name>
+  </trkpt>
+  <trkpt lat="35.22506" lon="-80.84851">
+    <name>TP052</name>
+  </trkpt>
+  <trkpt lat="35.2250637" lon="-80.8485143">
+    <name>TP053</name>
+  </trkpt>
+  <trkpt lat="35.22522" lon="-80.84826">
+    <name>TP054</name>
+  </trkpt>
+  <trkpt lat="35.22537" lon="-80.84805">
+    <name>TP055</name>
+  </trkpt>
+  <trkpt lat="35.22541" lon="-80.848">
+    <name>TP056</name>
+  </trkpt>
+  <trkpt lat="35.22544" lon="-80.84795">
+    <name>TP057</name>
+  </trkpt>
+  <trkpt lat="35.22558" lon="-80.84775">
+    <name>TP058</name>
+  </trkpt>
+  <trkpt lat="35.22581" lon="-80.84742">
+    <name>TP059</name>
+  </trkpt>
+  <trkpt lat="35.2261" lon="-80.84699">
+    <name>TP060</name>
+  </trkpt>
+  <trkpt lat="35.22627" lon="-80.84675">
+    <name>TP061</name>
+  </trkpt>
+  <trkpt lat="35.22638" lon="-80.84658">
+    <name>TP062</name>
+  </trkpt>
+  <trkpt lat="35.22651" lon="-80.84639">
+    <name>TP063</name>
+  </trkpt>
+  <trkpt lat="35.22656" lon="-80.84632">
+    <name>TP064</name>
+  </trkpt>
+  <trkpt lat="35.22663" lon="-80.84622">
+    <name>TP065</name>
+  </trkpt>
+  <trkpt lat="35.22687" lon="-80.84588">
+    <name>TP066</name>
+  </trkpt>
+  <trkpt lat="35.22717" lon="-80.84544">
+    <name>TP067</name>
+  </trkpt>
+  <trkpt lat="35.22726" lon="-80.8453">
+    <name>TP068</name>
+  </trkpt>
+  <trkpt lat="35.22731" lon="-80.84523">
+    <name>TP069</name>
+  </trkpt>
+  <trkpt lat="35.22739" lon="-80.84513">
+    <name>TP070</name>
+  </trkpt>
+  <trkpt lat="35.22751" lon="-80.84496">
+    <name>TP071</name>
+  </trkpt>
+  <trkpt lat="35.22809" lon="-80.84417">
+    <name>TP072</name>
+  </trkpt>
+  <trkpt lat="35.22813" lon="-80.84411">
+    <name>TP073</name>
+  </trkpt>
+  <trkpt lat="35.22817" lon="-80.84405">
+    <name>TP074</name>
+  </trkpt>
+  <trkpt lat="35.2285" lon="-80.84356">
+    <name>TP075</name>
+  </trkpt>
+  <trkpt lat="35.22857" lon="-80.84345">
+    <name>TP076</name>
+  </trkpt>
+  <trkpt lat="35.22889" lon="-80.84301">
+    <name>TP077</name>
+  </trkpt>
+  <trkpt lat="35.22893" lon="-80.84294">
+    <name>TP078</name>
+  </trkpt>
+  <trkpt lat="35.22905" lon="-80.84276">
+    <name>TP079</name>
+  </trkpt>
+  <trkpt lat="35.22925" lon="-80.84247">
+    <name>TP080</name>
+  </trkpt>
+  <trkpt lat="35.22942" lon="-80.84223">
+    <name>TP081</name>
+  </trkpt>
+  <trkpt lat="35.22954" lon="-80.84206">
+    <name>TP082</name>
+  </trkpt>
+  <trkpt lat="35.22966" lon="-80.84189">
+    <name>TP083</name>
+  </trkpt>
+  <trkpt lat="35.229656" lon="-80.841886">
+    <name>TP084</name>
+  </trkpt>
+  <trkpt lat="35.22947" lon="-80.84169">
+    <name>TP085</name>
+  </trkpt>
+  <trkpt lat="35.22937" lon="-80.84157">
+    <name>TP086</name>
+  </trkpt>
+  <trkpt lat="35.22942" lon="-80.84151">
+    <name>TP087</name>
+  </trkpt>
+  <trkpt lat="35.2294159" lon="-80.8415064">
+    <name>TP088</name>
+  </trkpt>
+  <trkpt lat="35.22944" lon="-80.84147">
+    <name>TP089</name>
+  </trkpt>
+  <trkpt lat="35.22946" lon="-80.8414">
+    <name>TP090</name>
+  </trkpt>
+  <trkpt lat="35.22946" lon="-80.84135">
+    <name>TP091</name>
+  </trkpt>
+  <trkpt lat="35.22944" lon="-80.84132">
+    <name>TP092</name>
+  </trkpt>
+  <trkpt lat="35.2294" lon="-80.84128">
+    <name>TP093</name>
+  </trkpt>
+  <trkpt lat="35.2294045" lon="-80.8412767">
+    <name>TP094</name>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>
